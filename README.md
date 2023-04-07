@@ -1,4 +1,4 @@
-# DSA5204-2023-Group20
+# DSA5204-2023-Group22
 
 In this project, we try to reproduce the main findings based on paper _EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks._
 
